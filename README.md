@@ -1,4 +1,4 @@
-# (Python) Project 3 – Zorgdata Analyse 2014–2015
+# (Python) Project 1 – Zorgdata Analyse 2014–2015
 
 **Categorie:** Data-analyse (Python)  
 **Bron:** CBS – Kosten en gebruik van zorg naar wet, per gemeente  
@@ -29,3 +29,4 @@ De analyse berekent en visualiseert de gemeenten met de hoogste en laagste total
 Installeer alle dependencies met:
 ```bash
 pip install -r requirements.txt
+
