@@ -1,0 +1,28 @@
+# ==========================================================
+# Zorgdata Analyse - Python dependencies
+# Auteur: Cedric Kivits
+# Datum: Oktober 2025
+# Beschrijving: Benodigde pakketten om het zorgdata-analyseproject uit te voeren.
+# ==========================================================
+
+# Data manipulatie
+pandas==2.2.3
+
+# Visualisatie
+matplotlib==3.9.2
+
+# ==========================================================
+# Installatie-instructies:
+# 1. Open een terminal of de geïntegreerde terminal in VS Code.
+# 2. Navigeer naar de map waarin dit bestand zich bevindt.
+# 3. Voer het volgende commando uit om de dependencies te installeren:
+#
+#    pip install -r requirements.txt
+#
+# 4. Start daarna een van de analyse-scripts:
+#
+#    python zorgdata_analyse_top10_hoog.py
+#    python zorgdata_analyse_top10_laag.py
+#
+# De grafieken worden automatisch gegenereerd en opgeslagen in de output-map.
+# ==========================================================
